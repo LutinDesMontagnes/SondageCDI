@@ -15,8 +15,8 @@ Projet CDI / NSI
 
 | Version | Status      | HTML Version | Support |
 |---------|-------------|--------------|---------|
-| 1.x     | IDP         | >= 5         | LDM     |
-| 2.x     | IDP         | >= 7         | LDM     |
-| 3.x     | IDP         | >= 7         | LDM     |
-| 4.x     | Latest      | >= 7         | LDM     |
-| 5.x     | Development | >= 7         | LDM     |
+| 1.x     | Development | >= 5         | LDM     |
+| 2.x     | Development | >= 5         | LDM     |
+| 3.x     | Development | >= 5         | LDM     |
+| 4.x     | Development | >= 5         | LDM     |
+| 5.x     | Development | >= 5         | LDM     |
