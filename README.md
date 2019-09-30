@@ -31,5 +31,5 @@ Projet CDI / NSI
 | --- | :---: |
 | [CSS Attachment](https://firebase.google.com/docs/auth/admin/create-custom-tokens) | ✅ |
 | [First Form](https://firebase.google.com/docs/auth/admin/verify-id-tokens)	| ✅ |
-| [Front End (5%à](https://firebase.google.com/docs/database/admin/start) | ❎ |
+| [Front End (5%)](https://firebase.google.com/docs/database/admin/start) | ❎ |
 | [Backend](https://firebase.google.com/docs/auth/admin/manage-users) | ❎ |
