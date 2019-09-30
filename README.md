@@ -20,3 +20,7 @@ Projet CDI / NSI
 | 3.x     | Development | >= 5         | LDM     |
 | 4.x     | Development | >= 5         | LDM     |
 | 5.x     | Development | >= 5         | LDM     |
+
+## Version 1.0.1  
+1. Ajout du titre, et de la section header
+2. Première base du formulaire
