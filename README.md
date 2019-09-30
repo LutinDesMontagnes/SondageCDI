@@ -5,10 +5,10 @@ Projet CDI / NSI
 2. A l'aide des **resultats**, calcul de l'empreinte carbonne des élèves
 
 # Equipe de développement  
-**LDM**: Timothé IOOS
-**PSC**: Mathis Parascandola
-**DVL**: Alexandre Devoulon
-**MAS**: Paul Maes
+**LDM**: Timothé IOOS  
+**PSC**: Mathis Parascandola  
+**DVL**: Alexandre Devoulon  
+**MAS**: Paul Maes 
 
 
 ## Versions
