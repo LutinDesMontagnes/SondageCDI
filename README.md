@@ -24,3 +24,12 @@ Projet CDI / NSI
 ## Version 1.0.1  
 1. Ajout du titre, et de la section header
 2. Première base du formulaire
+
+## Components
+
+| Feature | |
+| --- | :---: |
+| [CSS Attachment](https://firebase.google.com/docs/auth/admin/create-custom-tokens) | ✅ |
+| [First Form](https://firebase.google.com/docs/auth/admin/verify-id-tokens)	| ✅ |
+| [Front End (5%à](https://firebase.google.com/docs/database/admin/start) | ❎ |
+| [Backend](https://firebase.google.com/docs/auth/admin/manage-users) | ❎ |
